@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 988b39257c1ba488f894b722f7a85e15
+labels:
+- touch
+- manager
+- component
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
